@@ -8,7 +8,7 @@ Using default create-react-app build and scripts
 
 ## Technologies
 
-React 16, Redux 4, Enzyme 3
+React v16, Redux v4, Enzyme v3, Node v10, Express v4, MongoDB v4, Mongoose v5
 
 ## Branches
 
