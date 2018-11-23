@@ -1,4 +1,4 @@
-# ReactBasic
+# ReactAdvanced
 
 Step by step presentation of advanced react concepts. 
 
@@ -8,7 +8,7 @@ Using default create-react-app build and scripts
 
 ## Technologies
 
-React 16, Redux 4
+React 16, Redux 4, Enzyme 3
 
 ## Branches
 
