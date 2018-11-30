@@ -4,7 +4,7 @@ Step by step presentation of advanced react concepts.
 
 ## Build
 
-Using default create-react-app build and scripts
+Using default create-react-app boilerplate
 
 ## Technologies
 
